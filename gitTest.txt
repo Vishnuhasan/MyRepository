@@ -11,3 +11,6 @@ line added by Nu-Ha
 ---------
 
 line added by Vishnuhasan
+.....
+
+added some bugs/issues
