@@ -7,4 +7,15 @@ test- git
 ....
 new line....
 
+
 adding some line in already forked repo which changed for many features.
+
+----------------
+line added by Nu-Ha
+---------
+
+line added by Vishnuhasan
+.....
+
+added some bugs/issues
+
