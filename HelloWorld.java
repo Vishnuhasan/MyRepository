@@ -3,5 +3,7 @@ class HelloWorld{
      System.out.println("Hello Vishnu");  
      System.out.println("Hello Hasan");  
       System.out.println("Hello Hasan");  
+       System.out.println("Hello Vishnuhasan");  
+System.out.println("Hello Vishnuhasan!!!!!!!!!!!!!!");  
     }  
 }  
